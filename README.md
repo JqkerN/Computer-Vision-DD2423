@@ -1,4 +1,5 @@
 # Computer-Vision-DD2423
+Fall 2019 at KTH Royal Institution of Technology.
 ## Laboration 1:
 Filter operation and different scalling effects.
 ## Laboration 2: 
